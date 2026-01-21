@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# Thiago Silva  
+# Thiago Izaias 
 ### 💻 Data Engineer  
 
 <div align="center"> 
@@ -56,7 +56,7 @@
   <a href="mailto:thiago.sizaias@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/eithiagosilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/eithiagoizaias/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://trinitydeveloper.com.br" target="_blank">
